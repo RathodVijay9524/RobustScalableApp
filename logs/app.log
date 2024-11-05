@@ -1,0 +1,30 @@
+2024-11-04 16:38:37 - Starting RobustScalableAppApplication using Java 21.0.5 with PID 2428 (E:\Live-Projects\2025-programing\Reactive\RobustScalableApp\target\classes started by HP in E:\Live-Projects\2025-programing\Reactive\RobustScalableApp)
+2024-11-04 16:38:37 - No active profile set, falling back to 1 default profile: "default"
+2024-11-04 16:38:37 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-11-04 16:38:37 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-11-04 16:38:38 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-04 16:38:38 - Finished Spring Data repository scanning in 89 ms. Found 1 JPA repository interface.
+2024-11-04 16:38:39 - Tomcat initialized with port 9091 (http)
+2024-11-04 16:38:39 - Initializing ProtocolHandler ["http-nio-9091"]
+2024-11-04 16:38:39 - Starting service [Tomcat]
+2024-11-04 16:38:39 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-04 16:38:39 - Initializing Spring embedded WebApplicationContext
+2024-11-04 16:38:39 - Root WebApplicationContext: initialization completed in 2122 ms
+2024-11-04 16:38:39 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-04 16:38:40 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-04 16:38:40 - HHH000026: Second-level cache disabled
+2024-11-04 16:38:40 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-04 16:38:40 - HikariPool-1 - Starting...
+2024-11-04 16:38:40 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@a34e7f9
+2024-11-04 16:38:40 - HikariPool-1 - Start completed.
+2024-11-04 16:38:41 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-04 16:38:41 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-04 16:38:42 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-04 16:38:42 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-04 16:38:43 - LiveReload server is running on port 35729
+2024-11-04 16:38:43 - Starting ProtocolHandler ["http-nio-9091"]
+2024-11-04 16:38:43 - Tomcat started on port 9091 (http) with context path '/'
+2024-11-04 16:38:43 - Started RobustScalableAppApplication in 6.68 seconds (process running for 7.606)
+2024-11-04 16:39:57 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-04 16:39:57 - HikariPool-1 - Shutdown initiated...
+2024-11-04 16:39:57 - HikariPool-1 - Shutdown completed.
